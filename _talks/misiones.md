@@ -3,7 +3,7 @@ title: "El rol del dinero, la tasa de interés, el tipo de cambio y el producto 
 collection: talks
 type: "Talk"
 permalink: /talks/misiones
-venue: XXXIV Jornadas Nacionales de Docentes de Matemática de Facultades de Ciencias Económicas y afines"
+venue: "XXXIV Jornadas Nacionales de Docentes de Matemática de Facultades de Ciencias Económicas y afines"
 date: 2019-09-01
 location: "Misiones, Argentina"
 ---
