@@ -8,7 +8,7 @@ date: 2016-01-01
 location: "Buenos Aires, Argentina"
 ---
 
-Curso de Estadística II, cátedra Vitale. Actualmente en posición de ayudante de primera.
+Curso de Estadística II. Cátedra: Vitale. Adjunta: Vietri. Ayudante desde IC-2016 y ayudante de primera desde IC-2019.
 
 <!-- Heading 1
 ======
