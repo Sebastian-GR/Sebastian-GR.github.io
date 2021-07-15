@@ -9,32 +9,33 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Educación
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Mg. en Economía, FCE-UBA, 2020 (Tesis pendiente)
+* Lic. en Economía, FCE-UBA, 2018
+* Act. en Economía, FCE-UBA, en curso
 
-Work experience
+Experiencia laboral
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2013-2016: Trabajos diversos
+  *  Atención al cliente
+  *  Limpieza y mantenimiento
+  *  Trabajos administrativos
+  *  Operario
+* 2016-2018: Economista jr. en Alpha Estudio de Economía y Negocios
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018-actualidad: Becario de Investigación
+  * Becario part-time en IADCOM hasta 2019
+  * Becario full-time en IIEP hasta actualidad
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
@@ -54,6 +55,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
