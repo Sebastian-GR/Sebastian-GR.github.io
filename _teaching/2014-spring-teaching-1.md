@@ -1,10 +1,10 @@
 ---
 title: "Estadística II"
 collection: teaching
-type: "Undergraduate course"
+type: "Curso de grado"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Universidad de Buenos Aires, Facultad de Ciencias Económicas"
-date: 2016-01-01 / Actualidad
+coso: 2016-01-01 Actualidad
 location: "Buenos Aires, Argentina"
 ---
 
