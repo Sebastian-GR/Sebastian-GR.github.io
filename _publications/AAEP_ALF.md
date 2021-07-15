@@ -6,7 +6,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2020-10-01
 venue: 'AAEP'
 paperurl: 'https://aaep.org.ar/anales/works/works2020/Lopez.pdf'
-citation: 'López, A., Lachman, J., & Gómez Roca, S. (2020). &quot;Convirtiendo mercados negros en mercados legales: el largo y sinuoso camino del cannabis  Number 1.&quot; <i>Asociación Argentina de Economía Política 1</i>. 1(1).' -->
+citation: 'López, A., Lachman, J., & Gómez Roca, S. (2020). &quot;Convirtiendo mercados negros en mercados legales: el largo y sinuoso camino del cannabis  Number 1.&quot; <i>Asociación Argentina de Economía Política 1</i>. 1(1).'
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
 
