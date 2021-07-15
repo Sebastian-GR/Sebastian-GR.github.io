@@ -4,17 +4,17 @@ collection: teaching
 type: "Curso de grado"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Universidad de Buenos Aires, Facultad de Ciencias Económicas"
-coso: 2016-01-01 Actualidad
+date: 2016-01-01
 location: "Buenos Aires, Argentina"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Curso de Estadística II, cátedra Vitale. Actualmente en posición de ayudante de primera.
 
-Heading 1
+<!-- Heading 1
 ======
 
 Heading 2
 ======
 
 Heading 3
-======
+====== -->
