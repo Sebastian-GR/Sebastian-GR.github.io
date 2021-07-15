@@ -8,7 +8,7 @@ date: 2020-01-01
 location: "Buenos Aires, Argentina"
 ---
 
-Curso de Estadística I, cátedra Vietri. Actualmente en posición de adjunto interino.
+Curso de Estadística I. Cátedra: Vietri. Actualmente ocupo el puesto de adjunto interino.
 
 <!-- Heading 1
 ======
