@@ -12,4 +12,4 @@ citation: 'López, A., Lachman, J., & Gómez Roca, S. (2020). &quot;Convirtiendo
 
 [Download paper here](https://aaep.org.ar/anales/works/works2020/Lopez.pdf)
 
-Recommended citation: López, A., Lachman, J., & Gómez Roca, S. (2020. "Convirtiendo mercados negros en mercados legales: el largo y sinuoso camino del cannabis." <i>Asociación Argentina de Economía Política</i>.
+Recommended citation: López, A., Lachman, J., & Gómez Roca, S. (2020). "Convirtiendo mercados negros en mercados legales: el largo y sinuoso camino del cannabis." <i>Asociación Argentina de Economía Política</i>.
